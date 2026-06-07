@@ -7,3 +7,8 @@ node_modules/
 .vercel/
 .claude/
 *.log
+
+# local-dev only (not deployed)
+package.json
+server.js
+.vercelignore
