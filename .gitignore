@@ -1,0 +1,9 @@
+# Large backup originals (compressed versions are committed)
+assets/video/orig/
+# OS / editor
+.DS_Store
+# Tooling
+node_modules/
+.vercel/
+.claude/
+*.log

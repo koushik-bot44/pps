@@ -1,0 +1,10 @@
+{
+  "name": "paparao-educational-academy",
+  "version": "1.0.0",
+  "description": "Redesigned website for Paparao Educational Academy, K. Uppalapadu, Prakasam District, Andhra Pradesh.",
+  "private": true,
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js"
+  }
+}
